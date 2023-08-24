@@ -1,2 +1,2 @@
 # Activity
-I will providemy favorite activities on my website
+I provide my favorite activities on my website
