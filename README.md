@@ -1,4 +1,6 @@
-# Activity
+- 👋 Hi, I’m @bnalcaci
+- 👀 I provided my favorite activities on my website
+
 
 ## Soccer
 ![Soccer](tsubasa.jpg)
@@ -9,9 +11,14 @@
 
 >I love soccer stadium atmoshphere
 
+## Summary Of Activity
+>I created repository
+
+>Imported theme
+
+>Designed my page with markdown language
 
 
 
 
 
-I provided my favorite activities on my website
