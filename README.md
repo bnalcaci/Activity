@@ -18,6 +18,7 @@
 
 >Designed my page with markdown language
 
-## Comment Section
+## Comment Section ![image](https://github.com/bnalcaci/Activity/assets/142946156/72f251ec-ce16-49a1-be96-e188cc62db6d)
+
 
 > What do you think about the MLS? - Tim
