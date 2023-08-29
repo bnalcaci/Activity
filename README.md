@@ -18,7 +18,6 @@
 
 >Designed my page with markdown language
 
+## Comment Section
 
-
-
-
+> What do you think about the MLS? - Tim
