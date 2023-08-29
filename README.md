@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bnalcaci
-- 👀 I provided my favorite activities on my website
+# 👋 Hi, I’m @bnalcaci
+ 👀 I provided my favorite activities on my website.
 
 
 ## Soccer
@@ -7,6 +7,7 @@
 
 >*Soccer is most excited sport game for me*
 
+![image](https://github.com/bnalcaci/Activity/assets/142946156/724655f7-be71-4395-9e7f-1f7e0b9311c4)
 >[**Galatasaray**](https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)) is my favorite team in turkish super league
 
 >I love soccer stadium atmoshphere
